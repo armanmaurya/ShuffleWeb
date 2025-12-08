@@ -9,9 +9,11 @@
 
 .hero__message {
   font-family: 'Anton SC', sans-serif;
-  font-size: var(--font-size-hero);
+  /*font-size: var(--font-size-hero);*/
+  font-size: 160px;
   font-weight: 400;
   text-align: center;
+  
   color: var(--color-text-primary);
   line-height: 1.2; 
   letter-spacing: -0.03rem;
